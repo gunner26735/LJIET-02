@@ -1,0 +1,3 @@
+Task of June 6 are:
+1. WAP using a do while for creating an array 5 students with user define values
+2. WAP create 5 employeeobject for an employee class and showthe count of no of employees
