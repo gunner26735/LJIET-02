@@ -1,0 +1,8 @@
+DELIMITER //
+CREATE PROCEDURE find_greater ()
+BEGIN
+SELECT *
+FROM student
+WHERE id >2;
+END //
+DELIMITER ;
